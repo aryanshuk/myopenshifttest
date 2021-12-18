@@ -1,0 +1,2 @@
+# myopenshifttest
+Trying OpenShift commands
